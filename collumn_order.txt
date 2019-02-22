@@ -1,0 +1,12 @@
+killed_by
+killer_name	
+killer_placement	
+killer_position_x	
+killer_position_y	
+map	
+match_id	
+time	
+victim_name	
+victim_placement
+victim_position_x
+victim_position_y
